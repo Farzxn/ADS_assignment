@@ -1,0 +1,68 @@
+Label explanations: 
+CARDINAL : Numerals that do not fall under another type
+
+NORP : Nationalities or religious or political groups
+
+ORDINAL : "first", "second", etc.
+
+GPE : Countries, cities, states
+
+EVENT : Named hurricanes, battles, wars, sports events, etc.
+
+PERCENT : Percentage, including "%"
+
+PERSON : People, including fictional
+
+LOC : Non-GPE locations, mountain ranges, bodies of water
+
+TIME : Times smaller than a day
+
+ORG : Companies, agencies, institutions, etc.
+
+DATE : Absolute or relative dates or periods
+
+QUANTITY : Measurements, as of weight or distance
+
+
+The words and labels are 
+April 8, 2024 DATE
+the Great North American ORG
+North America LOC
+Mexico GPE
+Canada GPE
+United States GPE
+Moon PERSON
+Earth LOC
+Sun ORG
+Sun ORG
+Moon PERSON
+Sun ORG
+Earth LOC
+Moon PERSON
+5.5 percent PERCENT
+1.0566 CARDINAL
+4 minutes and 28.13 seconds TIME
+just 4 mi (6 km QUANTITY
+Mexican NORP
+Nazas, Durango ORG
+first ORDINAL
+Canada GPE
+February 26, 1979 DATE
+first ORDINAL
+Mexico GPE
+July 11, 1991 DATE
+first ORDINAL
+the United States GPE
+August 21, 2017 DATE
+the 21st century DATE
+three CARDINAL
+US GPE
+March 30, 2033 DATE
+Alaska GPE
+48 CARDINAL
+US GPE
+August 23, 2044 DATE
+August 12, 2045 DATE
+2017 DATE
+The October 2, 2024 EVENT
+the year DATE
